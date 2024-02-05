@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">businesscard</string>
+    <string name="name">Ailyn Diaz</string>
+    <string name="title">Junior Software Developer</string>
+    <string name="email">adiaz@ai-lyn.com</string>
+    <string name="githubLink">GitHub: ailynux</string>
+    <string name="linkedinLink">LinkedIn: ailyn-diaz</string>
+</resources>
